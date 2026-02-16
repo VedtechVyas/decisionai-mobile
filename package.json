@@ -1,0 +1,24 @@
+{
+  "name": "decisionai-mobile",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Standalone iOS and Android shell for DecisionAI",
+  "scripts": {
+    "web:build": "npm --prefix ../decisionai run build",
+    "web:copy": "bash ./scripts/sync-web-assets.sh",
+    "mobile:prepare": "npm run web:build && npm run web:copy",
+    "mobile:init": "npx cap add ios && npx cap add android",
+    "mobile:sync": "npm run mobile:prepare && npx cap sync",
+    "mobile:ios": "npm run mobile:sync && npx cap open ios",
+    "mobile:android": "npm run mobile:sync && npx cap open android",
+    "mobile:doctor": "npx cap doctor"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.1.0"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^7.1.0",
+    "@capacitor/cli": "^7.1.0",
+    "@capacitor/ios": "^7.1.0"
+  }
+}
