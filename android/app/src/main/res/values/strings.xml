@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DecisionAI</string>
+    <string name="title_activity_main">DecisionAI</string>
+    <string name="package_name">com.decisionai.app</string>
+    <string name="custom_url_scheme">com.decisionai.app</string>
+</resources>

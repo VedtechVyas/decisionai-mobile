@@ -1,0 +1,44 @@
+{
+  "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridgeProtocol.swift" : {
+    "const-values" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgeProtocol.swiftconstvalues",
+    "dependencies" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgeProtocol.d",
+    "diagnostics" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgeProtocol.dia",
+    "object" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgeProtocol.o",
+    "swift-dependencies" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgeProtocol.swiftdeps"
+  },
+  "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridgeViewController.swift" : {
+    "const-values" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgeViewController.swiftconstvalues",
+    "dependencies" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgeViewController.d",
+    "diagnostics" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgeViewController.dia",
+    "object" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgeViewController.o",
+    "swift-dependencies" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgeViewController.swiftdeps"
+  },
+  "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPFile.swift" : {
+    "const-values" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPFile.swiftconstvalues",
+    "dependencies" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPFile.d",
+    "diagnostics" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPFile.dia",
+    "object" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPFile.o",
+    "swift-dependencies" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPFile.swiftdeps"
+  },
+  "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceConfiguration.swift" : {
+    "const-values" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPInstanceConfiguration-5d98ddbec3191d4ed2b4efd6da7a4f9f.swiftconstvalues",
+    "dependencies" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPInstanceConfiguration-5d98ddbec3191d4ed2b4efd6da7a4f9f.d",
+    "diagnostics" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPInstanceConfiguration-5d98ddbec3191d4ed2b4efd6da7a4f9f.dia",
+    "object" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPInstanceConfiguration-5d98ddbec3191d4ed2b4efd6da7a4f9f.o",
+    "swift-dependencies" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPInstanceConfiguration-5d98ddbec3191d4ed2b4efd6da7a4f9f.swiftdeps"
+  },
+  "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceDescriptor.swift" : {
+    "const-values" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPInstanceDescriptor-8c477323de678f0754e06ebbbac7e116.swiftconstvalues",
+    "dependencies" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPInstanceDescriptor-8c477323de678f0754e06ebbbac7e116.d",
+    "diagnostics" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPInstanceDescriptor-8c477323de678f0754e06ebbbac7e116.dia",
+    "object" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPInstanceDescriptor-8c477323de678f0754e06ebbbac7e116.o",
+    "swift-dependencies" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPInstanceDescriptor-8c477323de678f0754e06ebbbac7e116.swiftdeps"
+  },
+  "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstancePlugin.swift" : {
+    "const-values" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPInstancePlugin.swiftconstvalues",
+    "dependencies" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPInstancePlugin.d",
+    "diagnostics" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPInstancePlugin.dia",
+    "object" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPInstancePlugin.o",
+    "swift-dependencies" : "/Users/sagarkant/Documents/mobile-app/decisionai-mobile/ios/DerivedDataStd2/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPInstancePlugin.swiftdeps"
+  }
+}
