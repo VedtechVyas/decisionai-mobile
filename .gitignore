@@ -1,2 +1,15 @@
 node_modules
 .DS_Store
+
+# iOS build and dependency artifacts
+ios/DerivedData*
+ios/DerivedData/**
+ios/App/Pods/
+ios/App/build/
+ios/**/*.xcuserstate
+ios/**/*.xcuserdata/
+
+# Android build artifacts
+android/.gradle/
+android/**/build/
+android/local.properties
